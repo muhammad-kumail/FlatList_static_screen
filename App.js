@@ -64,7 +64,6 @@ class App extends Component {
 
 
   render() {
-    const { search } = this.state;
     return (
 
       <View style={{flex: 10}}>
